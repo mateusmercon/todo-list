@@ -6,7 +6,7 @@ import { RouterLink } from "vue-router";
     <header>
         <nav class="container">
             <div class="branding">
-                <img src="src/assets/list.png" alt="vue logo">
+                <img src="..\assets\list.png" alt="vue logo">
                 <h1>To-do List</h1>
             </div>
             <ul class="nav-routes">
